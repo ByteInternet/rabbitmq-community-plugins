@@ -1,0 +1,5 @@
+rabbitmq-community-plugins (20221229.1327) unstable; urgency=low
+
+  * Initial version
+
+ -- Timon de Groot <timon.degroot@hypernode.com>  Thu, 27 Dec 2022 13:27:22 +0100

@@ -1,0 +1,12 @@
+Source: rabbitmq-community-plugins
+Section: unknown
+Priority: extra
+Maintainer: Hypernode <tech@hypernode.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: https://github.com/ByteInternet/rabbitmq-community-plugins
+
+Package: rabbitmq-community-plugins
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Supplementary community plugins for the RabbitMQ AMQP messaging service.
